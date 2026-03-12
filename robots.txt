@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://lagu-jawa-terbaru-kowe-lungo-ngamenria.suparanii381.workers.dev/sitemap.xml
+
+# Crawl delay to prevent server overload
+Crawl-delay: 1
